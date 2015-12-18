@@ -1,7 +1,7 @@
 name: lizshannon
 favicon: null
-layout_spectrum: 0.6314325502607971
-typography_spectrum: 0.22205000673420727
+layout_spectrum: 0
+typography_spectrum: 0.46629
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#1ebdbd'
+    - '#008080'
+    - '#00ffff'
+    - '#000000'
+    - '#00d5d5'
   brandStrength: 0.6207718013320118
   lightness: 0.17388603882864118
   saturation: 0.3708824827335775
